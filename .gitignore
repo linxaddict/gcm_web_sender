@@ -1,0 +1,13 @@
+*.db
+.DS_Store
+.idea
+venv
+env
+__pycache__
+*.pyc
+web/Hypeit/media/
+.coverage
+coverage.xml
+www/
+.env
+.venv/
